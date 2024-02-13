@@ -1,6 +1,6 @@
 # Saksham Vashishta
 
-🚀 Flutter Developer | 💻 Software Engineer | 📚 Learning Enthusiast
+🚀 Flutter Developer | 📚 Learning Enthusiast
 
 Hi there! 👋 I'm Saksham Vashishta, a passionate Flutter developer and software engineer. My journey in the world of technology involves creating engaging and user-friendly mobile applications using Flutter.
 
