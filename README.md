@@ -11,7 +11,8 @@ I'm currently learning data structures and algorithms to strengthen my problem-s
 ## 🚀 Tech Stack
 
 - Flutter | Dart
-- Java | Data Structures And Algorithms
+- C | C++ | Java 
+- Data Structures And Algorithms
 
 ## 📫 Let's Connect
 
