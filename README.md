@@ -1,6 +1,6 @@
 # Saksham Vashishta
 
-Hello! My name is Saksham 👨‍💻, a passionate and enthusiastic Computer Science student and AI/ML developer. Skilled in a wide range of programming languages such as Python 🐍, C/C++ 💻, Java ⚡, Dart 🎯, JavaScript/TypeScript 🌐, and SQL. I design efficient and interactive solutions using technologies like ReactJS, Flutter, Streamlit, Firebase, and NLP. I'm driven to build scalable and impactful software projects that combine AI, web, and mobile technologies 🚀.
+Hello! My name is Saksham 👨‍💻, a passionate and enthusiastic Computer Science student and AI/ML developer. Skilled in a wide range of programming languages and technologies. I design efficient and interactive solutions using AI, web, and mobile technologies 🚀.
 
 My work philosophy revolves around three core principles:
 
@@ -14,10 +14,26 @@ My work philosophy revolves around three core principles:
 ---
 
 ## 🔨 Languages and Tools
-- **Languages:** Python 🐍, C/C++, Java ⚡, Dart 🎯, JavaScript/TypeScript, SQL  
-- **Frameworks & Libraries:** ReactJS, Flutter, Streamlit, NLP (SpaCy)  
-- **Technologies:** Firebase, REST APIs, OpenAI API, AsyncIO, AIOHTTP  
-- **Tools:** Git, GitHub, PyPDF2, python-docx, BeautifulSoup, Requests  
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PyPDF2](https://img.shields.io/badge/PyPDF2-007396?style=for-the-badge&logo=python&logoColor=white)
+![python-docx](https://img.shields.io/badge/python--docx-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF9900?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -38,7 +54,6 @@ My work philosophy revolves around three core principles:
 ## 🎓 Education
 **Guru Gobind Singh Indraprastha University, Delhi**  
 B.Tech in Computer Science and Engineering (Sept 2022 – Present)  
-Relevant Coursework: OOP, Databases, Data Structures & Algorithms, Data Mining, Machine Learning, Image Processing, Information Retrieval, Computer Networks, Operating Systems  
 
 ---
 
@@ -58,6 +73,3 @@ Relevant Coursework: OOP, Databases, Data Structures & Algorithms, Data Mining, 
 - 📚 Reading & exploring AI/ML concepts  
 - 🎭 Theater & Drama activities  
 - 🥾 Hiking & outdoor adventures  
-
----
-
