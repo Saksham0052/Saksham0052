@@ -1,29 +1,63 @@
 # Saksham Vashishta
 
-🚀 Flutter Developer | 📚 Learning Enthusiast
+Hello! My name is Saksham 👨‍💻, a passionate and enthusiastic Computer Science student and AI/ML developer. Skilled in a wide range of programming languages such as Python 🐍, C/C++ 💻, Java ⚡, Dart 🎯, JavaScript/TypeScript 🌐, and SQL. I design efficient and interactive solutions using technologies like ReactJS, Flutter, Streamlit, Firebase, and NLP. I'm driven to build scalable and impactful software projects that combine AI, web, and mobile technologies 🚀.
 
-Hi there! 👋 I'm Saksham Vashishta, a passionate Flutter developer and software engineer. My journey in the world of technology involves creating engaging and user-friendly mobile applications using Flutter.
+My work philosophy revolves around three core principles:
 
-## 🌱 Learning
+🤝 Collaboration | 💡 Creativity | 📊 Efficiency
 
-I'm currently learning data structures and algorithms to strengthen my problem-solving skills. Always excited to explore new technologies and enhance my coding prowess.
+---
 
-## 🚀 Tech Stack
+## 🤝 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/saksham-vashishta) | [GitHub](https://github.com/Saksham0052) | sakshamvashishta@gmail.com
 
-- Flutter | Dart
-- C | C++ | Java 
-- Data Structures And Algorithms
+---
 
-## 📫 Let's Connect
+## 🔨 Languages and Tools
+- **Languages:** Python 🐍, C/C++, Java ⚡, Dart 🎯, JavaScript/TypeScript, SQL  
+- **Frameworks & Libraries:** ReactJS, Flutter, Streamlit, NLP (SpaCy)  
+- **Technologies:** Firebase, REST APIs, OpenAI API, AsyncIO, AIOHTTP  
+- **Tools:** Git, GitHub, PyPDF2, python-docx, BeautifulSoup, Requests  
 
-- [LinkedIn] --> (www.linkedin.com/in/saksham-vashishta-b533832a0)
+---
 
-Feel free to explore my repositories and connect with me. I'm open to collaboration and always looking to learn and grow in the ever-evolving tech landscape.
+## 📂 Projects
 
-## How to reach me
+### [SOP Generator App](https://github.com/Saksham0052/sop-generator)
+- Developed a web app that generates personalized Statements of Purpose (SOPs) for students applying abroad.  
+- Integrated OpenAI API for AI-based text generation and automated Word document creation.  
+- **Technologies Used:** Python, Streamlit, OpenAI API, PyPDF2, python-docx, SpaCy, Firebase  
 
-gmail --> sakshamvashishta@gmail.com
+### [Customer Churn Prediction App](https://github.com/Saksham0052/churn-prediction)
+- Built an interactive web application to predict customer churn using telecom data.  
+- Implemented feature encoding, scaling, and Random Forest classification achieving 80%+ accuracy.  
+- **Technologies Used:** Python, Streamlit, Pandas, Scikit-learn, Joblib  
 
-<!---
-Saksham0052/Saksham0052 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+---
+
+## 🎓 Education
+**Guru Gobind Singh Indraprastha University, Delhi**  
+B.Tech in Computer Science and Engineering (Sept 2022 – Present)  
+Relevant Coursework: OOP, Databases, Data Structures & Algorithms, Data Mining, Machine Learning, Image Processing, Information Retrieval, Computer Networks, Operating Systems  
+
+---
+
+## 🏆 Achievements & Leadership
+- **Vice President, Rangmanch Drama Society, VIPS:** Led a team in organizing stage performances and inter-college competitions.  
+- **NCC Training (2018–2020):** Completed National Cadet Corps A-level certification, developing discipline, leadership, and teamwork skills.  
+
+---
+
+## 📊 GitHub Stats
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saksham0052&show_icons=true&theme=radical)
+
+---
+
+## ⏳ My Daily Routine
+- 💻 Coding & Learning new technologies  
+- 📚 Reading & exploring AI/ML concepts  
+- 🎭 Theater & Drama activities  
+- 🥾 Hiking & outdoor adventures  
+
+---
+
