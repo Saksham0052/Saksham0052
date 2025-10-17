@@ -1,4 +1,4 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/14f73717-b4dd-4ed6-88fe-99dcc9858246" />
+<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/4844236a-e993-4c51-9032-d6b4cb7b2145" />
 
 
 # Saksham Vashishta
