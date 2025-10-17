@@ -57,25 +57,9 @@ My work philosophy revolves around three core principles:
 
 ---
 
-## 🎓 Education
-**Guru Gobind Singh Indraprastha University, Delhi**  
-B.Tech in Computer Science and Engineering (Sept 2022 – Present)  
-
----
-
-## 🏆 Achievements & Leadership
-- **Vice President, Rangmanch Drama Society, VIPS:** Led a team in organizing stage performances and inter-college competitions.  
-- **NCC Training (2018–2020):** Completed National Cadet Corps A-level certification, developing discipline, leadership, and teamwork skills.  
-
----
-
 ## 📊 GitHub Stats
 ![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saksham0052&show_icons=true&theme=radical)
 
 ---
 
-## ⏳ My Daily Routine
-- 💻 Coding & Learning new technologies  
-- 📚 Reading & exploring AI/ML concepts  
-- 🎭 Theater & Drama activities  
-- 🥾 Hiking & outdoor adventures  
+
