@@ -1,3 +1,6 @@
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/14f73717-b4dd-4ed6-88fe-99dcc9858246" />
+
+
 # Saksham Vashishta
 
 Hello! My name is Saksham 👨‍💻, a passionate and enthusiastic Computer Science student and AI/ML developer. Skilled in a wide range of programming languages and technologies. I design efficient and interactive solutions using AI, web, and mobile technologies 🚀.
